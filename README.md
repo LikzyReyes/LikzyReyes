@@ -15,6 +15,3 @@
 - Seleccionar Master [A], Next
 - Seleccionar Master-origin/master[A]
 - Finish
-
-
-- Nota: Segui todos los pasos al pie de la letra pero al final me marcaba un error.
